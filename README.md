@@ -4,20 +4,20 @@
 - 🌱 Attualmente sto imparando **Curse to Develhope**
 
 - 📫 Come contattarmi **giuseppe.favara@gmail.com**
-About Me
-🧑‍💻 Backend developer in training
-🎂 28 years old
-🏠 Living in Sant'Apollinare, a charming small village in Lazio (province of Frosinone), Italy
+##About Me
+- 🧑‍💻 Backend developer in training
+- 🎂 28 years old
+- 🏠 Living in Sant'Apollinare, a charming small village in Lazio (province of Frosinone), Italy
 
-What I'm Up To
-📚 Currently taking a backend development course with Develhope
-🌱 Learning new technologies and improving my programming skills
-🚀 Excited to embark on this new adventure in the world of software development
+##What I'm Up To
+- 📚 Currently taking a backend development course with Develhope
+- 🌱 Learning new technologies and improving my programming skills
+- 🚀 Excited to embark on this new adventure in the world of software development
 
-Interests
-💻 Passionate about technology
-🌍 Curious to explore new cultures and places
-📈 Always looking for new challenges and opportunities to grow
+##Interests
+- 💻 Passionate about technology
+- 🌍 Curious to explore new cultures and places
+- 📈 Always looking for new challenges and opportunities to grow
 
 <h3 align="left">Contattami:</h3>
 <p align="left">
